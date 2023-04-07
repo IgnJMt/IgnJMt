@@ -16,6 +16,11 @@ My name is Ignacio Jiménez-Mota (IgnJMt), I'm from Mexico City and I'm Data Ana
 * Adaptability.
 * Problem solving skills.
 
+## Languages 📶💭✍🗽🗼🚀
+* Spanish (mother tongue).
+* English (B1).
+* French (A1).
+
 ## Contact 📩📡📞
 * Email: ignacio.jmota@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ignacio-jim%C3%A9nez-mota-iqm0313/)
