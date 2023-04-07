@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Ignacio Jiménez-Mota (IgnJMt), I'm from Mexico City and I'm Data Analyst.
 * 🔭 I’m currently working on ... looking for a job 😅 
-* 🌱 I’m currently studying at [ONE Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/)
+* 🌱 I’m currently studying at [ONE Oracle Next Education.](https://www.oracle.com/mx/education/oracle-next-education/)
 
 ## Hard Skills 💪🛠⚙
 * Advanced Excel.
